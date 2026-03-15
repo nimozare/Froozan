@@ -1,1 +1,2 @@
-
+vless://461f5dac-41c2-4d49-a1e2-f2b7d731b7ab@185.235.196.149:35812?security=reality&type=tcp&headerType=&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&sid=82cada35130f1ef2#Froozan%20%7C%20Ezterari%20x4
+vless://461f5dac-41c2-4d49-a1e2-f2b7d731b7ab@85.133.227.119:35812?security=reality&type=tcp&headerType=&path=&host=&sni=www.microsoft.com&fp=chrome&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&sid=82cada35130f1ef2#Froozan%20%7C%20Austria%20%F0%9F%87%A6%F0%9F%87%B9%201
